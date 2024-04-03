@@ -6,4 +6,5 @@ This project is creating a function to perform portfolio analysis such as calcul
 
 This project is about how to invest $1M dollars in the market, how to allocate those assets among a selected set of securities. The answer depends on many factors such as client's risk tolerance, target returns and investment time span.
 
-![Image Description](Designer (48).jpeg)
+
+![Designer (48)](https://github.com/Gabor-Depo/Portfolio-Assets-Allocation-and-Statistical-Data-Analysis/assets/139584904/7f2ce162-6013-46be-adf0-a5e7ea804350)
